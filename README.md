@@ -1,5 +1,5 @@
 
-WPF POS Authentication Windows
+WPF POS Authentication Window
 
 
 
