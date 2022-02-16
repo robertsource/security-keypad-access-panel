@@ -34,7 +34,7 @@ WPF POS Authentication Window
 
 
 
-####C#　
+####C#　Code Block
 
 ```C#
    private void StepByStepStopAnimation(string symbol, Button btn)
