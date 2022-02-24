@@ -1,9 +1,8 @@
 
-WPF POS Authentication Window
+###WPF POS Authentication Window
+
 ###Password : 1234
-
-
-
+ 
 
 
 
