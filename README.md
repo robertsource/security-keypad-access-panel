@@ -4,36 +4,26 @@
 ## POS Screen Security Authentication Module (research) | Jan 2019
 
 • Developed a POS screen security authentication model (research)
+
 • Used the POS system module using WPF technology and logic touch pad algorithm that simulate same a digital analog light logic.
 
-`Password : 1234`
+
+ > Password is `1234`
+
+
+
+
+
+![wpf](https://user-images.githubusercontent.com/75975280/221502780-8eaad649-4573-499d-af84-c5a292528795.png)
+
+
  
 
-
-
-
-![](https://stephenhaunts.files.wordpress.com/2013/11/wpf-logo1.jpg)
-
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
-
-
-
-                    
-> "Blockquotes Blockquotes", [Link](http://localhost/)。
-
 ## Links
+ 
+### Code Blocks (multi-language) & highlighting
 
-
-`<link>` : <https://github.com>
-
-[Reference link][id/name] 
-
-
-
-###Code Blocks (multi-language) & highlighting
-
-####Update
+#### Update
 
 `Coming soon more animation features`
 
@@ -75,22 +65,6 @@
 ```
 
 
-
-### FlowChart
- 
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
-
-![image](https://user-images.githubusercontent.com/75975280/153934362-0ee4b1ef-5435-4bd5-abb6-4898bfc3a324.png)
 ![numricpad](https://user-images.githubusercontent.com/75975280/221501847-4f072ab5-babd-4464-b027-776d581ff13e.png)
 
-###End
+
