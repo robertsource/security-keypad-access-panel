@@ -1,11 +1,11 @@
 
 
 
-## POS Screen Security Authentication Module (research) | Jan 2019
+## security keypad access panel with an illuminated digital numeric keypad (research) | Jan 2019
 
-• Developed a POS screen security authentication model (research)
+• Developed a security keypad access panel with an illuminated digital numeric keypad (research)
 
-• Used the POS system module using WPF technology and logic touch pad algorithm that simulate same a digital analog light logic.
+• Used the security keypad access panel system module using `WPF` technology and logic touch pad algorithm that simulate same a digital analog light logic.
 
 
  Password is `1234`
