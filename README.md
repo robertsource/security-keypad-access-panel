@@ -8,27 +8,46 @@
 • Used the POS system module using WPF technology and logic touch pad algorithm that simulate same a digital analog light logic.
 
 
- > Password is `1234`
+ Password is `1234`
 
 
 ![wpf](https://user-images.githubusercontent.com/75975280/221505122-45a9cc5f-14f4-4602-bbc9-120702bea5fa.png)
 
-
+ >WPF provides a comprehensive set of application-development features that include Extensible Application Markup Language (XAML), controls, data binding, layout, 2D and 3D graphics, animation, styles, templates, documents, media, text, and typography. WPF is part of .NET, so you can build applications that incorporate other elements of the .NET API.
  
 
-## Links
  
-### Code Blocks (multi-language) & highlighting
-
-#### Update
 
 `Coming soon more animation features`
 
 
+ 
 
-#### C#　Code Block
+ 
+<table  cellspacing="0" cellpadding="0">
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+Code Example
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+UI
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
 
-```C#
+``` C#
    private void StepByStepStopAnimation(string symbol, Button btn)
         {
             if (stop1)
@@ -61,7 +80,14 @@
         }
 ```
 
+  
+</td>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
 
-![numricpad](https://user-images.githubusercontent.com/75975280/221501847-4f072ab5-babd-4464-b027-776d581ff13e.png)
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/75975280/221501847-4f072ab5-babd-4464-b027-776d581ff13e.png"><img src="https://user-images.githubusercontent.com/75975280/221501847-4f072ab5-babd-4464-b027-776d581ff13e.png" alt="numricpad" style="max-width: 100%;"></a>
 
-
+</td>
+</tr>
+ 
+</table>
