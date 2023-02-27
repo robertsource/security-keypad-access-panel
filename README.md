@@ -1,7 +1,7 @@
 
 
 
-## security keypad access panel with an illuminated digital numeric keypad (research) | Jan 2019
+## security keypad access panel with an animated digital numeric keypad (research) | Jan 2019
 
 • Developed a security keypad access panel with an illuminated digital numeric keypad (research)
 
