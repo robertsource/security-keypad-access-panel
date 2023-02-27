@@ -1,5 +1,9 @@
 
-###WPF POS Authentication Window
+
+
+##POS Screen Security Authentication Module (research) | Jan 2019
+• Developed a POS screen security authentication model (research)
+• Used the POS system module using WPF technology and logic touch pad algorithm that simulate same a digital analog light logic.
 
 `Password : 1234`
  
